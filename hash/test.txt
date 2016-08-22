@@ -1,0 +1,2 @@
+Hash ${git.commit.id}
+Name ${name}
